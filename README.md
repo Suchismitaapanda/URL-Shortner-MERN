@@ -1,2 +1,2 @@
 # URL-Shortner-MERN
-piyush garg
+Used Express,Node,Mongodb
